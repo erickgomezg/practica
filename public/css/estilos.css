@@ -15,3 +15,26 @@
     font-size: 20pt;
     color: rgb(255, 255, 255);
 }
+
+/* calculadora */
+
+#calc button{
+    padding: 10px;
+    color: #000;
+    background: #F5E419;
+    width: 320px;
+    margin: 20px auto;
+    margin-top: 0;
+    border: 0;
+    border-radius: 3px;
+    cursor: pointer;
+    align-items: center;
+}
+
+#calc output{
+    font-size: 25pt;
+    background-color: rgb(4, 70, 48);
+    color: azure;
+    width: 300px;
+    align-items: center;
+}
